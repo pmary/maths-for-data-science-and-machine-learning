@@ -1,2 +1,4 @@
-# Initial page
+# 1. Introduction
+
+Mathematics, Statistics and Algorithm are the foundations of Data Science and Machine Learning. However, if you are from a computer science background you may lake of knowledge in the first two fields, which is limiting your potential and may lead you to create poor models. For example, it is ridiculously easy to get started with training neural nets. You could use of the numerous libraries and frameworks and 30 lines of code later, your problem is magically solved! But your developer habit have mislead you. This stuff isn't plug and play like you may be used to. There is no clean APIs and abstractions put at your disposal by a developer who has taken the burden of understanding all the complex stuff for you like what we are familiar with and expect. Neural nets are nothing like that. The fact it that it's full of "leaky abstractions". If you want to use this technology, you need to understand how the maths behind works or you are likely to fail.
 
